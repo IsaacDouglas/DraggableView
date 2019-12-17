@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DraggableView_Example' do
+  pod 'DraggableView', :path => '../'
+
+  target 'DraggableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
