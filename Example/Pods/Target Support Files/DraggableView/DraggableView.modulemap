@@ -1,0 +1,6 @@
+framework module DraggableView {
+  umbrella header "DraggableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

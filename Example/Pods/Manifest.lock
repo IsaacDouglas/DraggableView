@@ -1,0 +1,16 @@
+PODS:
+  - DraggableView (0.1.0)
+
+DEPENDENCIES:
+  - DraggableView (from `../`)
+
+EXTERNAL SOURCES:
+  DraggableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DraggableView: f8f7a20efa4676507c803fe69c21a5edcfa1b420
+
+PODFILE CHECKSUM: bd3038f6bec0dada323fcbcfe5afcf0e918690f7
+
+COCOAPODS: 1.8.4
